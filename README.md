@@ -1,13 +1,13 @@
-# HitList
+#HitList
 
-**HitList** es una aplicación sencilla desarrollada en **Xcode con Swift y UIKit** como práctica de manejo de datos usando **Core Data**.  
-El proyecto permite agregar nombres a una lista, almacenarlos de forma persistente y mostrarlos en pantalla mediante un **UITableView**.
+**HitList** is a simple application developed in **Xcode** using **Swift** and **UIKit** as a practice project for managing data with **Core Data**.  
+The app allows users to add names to a list, store them persistently, and display them on screen using a **UITableView**.
 
 ---
 
-## 🧠 Características
-- Agregar y mostrar  elementos (nombres) de la lista.  
-- Persistencia local con **Core Data**.  
-- Interfaz clara y minimalista basada en **UIKit**.  
-- Ejemplo ideal para aprender conceptos básicos de manejo de datos.
+🧠 **Features**
+- Add and display items (names) in a list.  
+- Local data persistence with **Core Data**.  
+- Clean and minimal **UIKit-based** interface.  
+- Great example for learning the basics of **data handling** and iOS app architecture.
 ---
