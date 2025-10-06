@@ -1,4 +1,4 @@
-#HitList
+# HitList
 
 **HitList** is a simple application developed in **Xcode** using **Swift** and **UIKit** as a practice project for managing data with **Core Data**.  
 The app allows users to add names to a list, store them persistently, and display them on screen using a **UITableView**.
